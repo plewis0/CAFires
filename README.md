@@ -1,6 +1,6 @@
-CAFire.py - a command line tool to scrape data from the CAL Fire website on current (and past) California wildfires
+CAFires.py - a command line tool to scrape data from the CAL Fire website on current (and past) California wildfires
 
-Usage: CAFire.py [-h] [-a]
+Usage: CAFires.py [-h] [-a]
 
 Options:
 
