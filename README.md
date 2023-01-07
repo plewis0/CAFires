@@ -1,4 +1,5 @@
 CAFires.py - a command line tool to scrape data from the CAL Fire website on current (and past) California wildfires
+Required libraries: sys, csv, urllib.request, tabulate
 
 Usage: CAFires.py [-h] [-a]
 
